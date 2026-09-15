@@ -13,10 +13,12 @@ This Project explores sales trend in Bike Dekho – Bike purchase/Sales industry
 - Removed Duplicates.
 - Standardized column formats.
 - Created calculated columns like ‘Age Group’, ‘Income Group’ etc. for better usability.
+
 **2. Exploratory Data Analysis:**
 - Used Pivot Table to analyse:
   - Number of Store Visitors, Number of buyers etc.
   - Bike purchase trend by marital Status.
   - Home Ownership and Number of cars vs bike purchase trend.
   - Bike purchases by gender, income, Region, Education, Occupation etc.
+ 
 **3. Dashboard Creation**
